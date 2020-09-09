@@ -1,7 +1,10 @@
 Yoo this is a git demo
 hello git yoo
 bug1 fixed
+altered
 
 bug3 this is so not same base
+
+change 1: CR1 by teamate
 
 
