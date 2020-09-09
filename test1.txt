@@ -1,3 +1,4 @@
 Yoo this is a git demo
 hello git yoo
 bug1 fixed
+bug2 conflicting change
